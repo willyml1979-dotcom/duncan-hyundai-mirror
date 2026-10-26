@@ -1,10 +1,18 @@
 {
   "dealership": "Duncan Hyundai",
-  "generated_at": "2026-10-25T13:40:05",
+  "generated_at": "2026-10-25T23:23:39",
   "vehicle_count": 712,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Hyundai Elantra Hybrid LUXURYin Duncan",
+      "vin": "KMHLN4DJ7TU227266",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/4299b5609649.html",
+      "condition": "new",
+      "price": 34249.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
       "vin": "3KMJCCDE0TE030028",
@@ -7427,17 +7435,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 31149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra Hybrid LUXURYin Duncan",
-      "vin": "KMHLN4DJ7TU227266",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/4299b5609649.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra Hybrid",
-      "condition": "new",
-      "price": 34249.0,
       "price_currency": "CAD"
     },
     {
