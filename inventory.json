@@ -1,72 +1,1231 @@
 {
   "dealership": "Duncan Hyundai",
-  "generated_at": "2026-10-26T08:00:50",
-  "vehicle_count": 712,
+  "generated_at": "2026-11-16T15:54:16",
+  "vehicle_count": 747,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Hyundai Elantra Hybrid LUXURYin Duncan",
-      "vin": "KMHLN4DJ7TU227266",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/4299b5609649.html",
-      "condition": "new",
-      "price": 34249.0,
+      "name": "Jeep TJ 1997 for salein Duncan",
+      "vin": "1J4FY29P8VP409600",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/925eaf194492.html",
+      "condition": "used",
+      "price": 6999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
-      "vin": "3KMJCCDE0TE030028",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/10f3450235b3.html",
-      "condition": "new",
-      "price": 40849.0,
+      "name": "Toyota Camry 2001 for salein Duncan",
+      "vin": "JT2BF22K910299287",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b20ba75462c9.html",
+      "condition": "used",
+      "price": 4999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
-      "vin": "3KMJCCDE0TE030031",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/089184fdb077.html",
-      "condition": "new",
-      "price": 41399.0,
+      "name": "Ford Escape 2006 for salein Duncan",
+      "vin": "1FMYU93166KB97586",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a70c2326e263.html",
+      "condition": "used",
+      "price": 2999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
-      "vin": "KM8JCCDE8TU467694",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/61a7505d9103.html",
-      "condition": "new",
-      "price": 41099.0,
+      "name": "Honda Odyssey 2007 for salein Duncan",
+      "vin": "5FNRL38827B505320",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/88e0517ca47f.html",
+      "condition": "used",
+      "price": 2999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Venue ESSENTIALin Duncan",
-      "vin": "KMHRB8A32TU504194",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/0126934ffb8a.html",
-      "condition": "new",
-      "price": 24199.0,
+      "name": "Jeep Liberty 2007 for salein Duncan",
+      "vin": "1J4GL48K27W660190",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/11c7ebad2276.html",
+      "condition": "used",
+      "price": 8999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Hyundai Kona LUXURYin Duncan",
-      "vin": "KM8HBCAB5VU524061",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/5643a984494b.html",
-      "condition": "new",
-      "price": 39649.0,
+      "name": "Chevrolet Aveo 2008 for salein Duncan",
+      "vin": "KL1TD65658B002691",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4b2d2b1ec747.html",
+      "condition": "used",
+      "price": 2700.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Hyundai Kona PREFERREDin Duncan",
-      "vin": "KM8HBCAB0VU534710",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/bde1dcbc49d1.html",
-      "condition": "new",
-      "price": 34499.0,
+      "name": "Jeep Grand Cherokee 2008 for salein Duncan",
+      "vin": "1J8HR58M28C212043",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9f852475ab95.html",
+      "condition": "used",
+      "price": 3998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Hyundai Kona PREFERREDin Duncan",
-      "vin": "KM8HBCABXVU537551",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/74be0f7b602b.html",
-      "condition": "new",
-      "price": 34499.0,
+      "name": "Lincoln MKZ 2008 for salein Duncan",
+      "vin": "3LNHM28T28R639246",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/74edab7ff7f2.html",
+      "condition": "used",
+      "price": 6999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2010 for salein Duncan",
+      "vin": "1FTEX1C81AFB78801",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1532a6af1f1f.html",
+      "condition": "used",
+      "price": 6999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2010 for salein Duncan",
+      "vin": "2CTFLJEY8A6416140",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7e8a59c9938a.html",
+      "condition": "used",
+      "price": 3999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 3 Series 2011 for salein Duncan",
+      "vin": "WBAKF3C57BE567129",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/05ed43a7be8e.html",
+      "condition": "used",
+      "price": 14888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2011 for salein Duncan",
+      "vin": "2D4RN4DG9BR673792",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/36aa1d0a5e0f.html",
+      "condition": "used",
+      "price": 4499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Juke 2011 for salein Duncan",
+      "vin": "JN8AF5MR1BT006307",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a863525bedb0.html",
+      "condition": "used",
+      "price": 4699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2011 for salein Duncan",
+      "vin": "JN8AS5MV0BW289631",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/474e3ddb859a.html",
+      "condition": "used",
+      "price": 7288.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi A5 2012 for salein Duncan",
+      "vin": "WAUVFBFR1CA015821",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/78bd3b6b9437.html",
+      "condition": "used",
+      "price": 8999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Acadia 2012 for salein Duncan",
+      "vin": "1GKKRPED3CJ388475",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0c6667a7fc29.html",
+      "condition": "used",
+      "price": 5999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2012 for salein Duncan",
+      "vin": "5XYKUDA26CG261507",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f799bcb4625e.html",
+      "condition": "used",
+      "price": 6999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2012 for salein Duncan",
+      "vin": "KNDJT2A55C7440647",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b35a9bd045dc.html",
+      "condition": "used",
+      "price": 3818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Sedan 2013 for salein Duncan",
+      "vin": "2HGFB2F42DH109007",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/43911227e422.html",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2014 for salein Duncan",
+      "vin": "5NPDH4AE7EH505152",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/626ee85cd477.html",
+      "condition": "used",
+      "price": 4998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra Coupe 2014 for salein Duncan",
+      "vin": "KMHDH6AH4EU026730",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/fa34cdddcd35.html",
+      "condition": "used",
+      "price": 4999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi RVR 2014 for salein Duncan",
+      "vin": "4A4AJ4AU5EE601059",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c0ab5ddb5b7a.html",
+      "condition": "used",
+      "price": 5499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2014 for salein Duncan",
+      "vin": "WVGJV3AXXEW568792",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/28930f03eb59.html",
+      "condition": "used",
+      "price": 7498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 3500 2015 for salein Duncan",
+      "vin": "1GT424E89FF629974",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/bb0ed9ac9e21.html",
+      "condition": "used",
+      "price": 64995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic 2015 for salein Duncan",
+      "vin": "2HGFB2F47FH021315",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/66cc89a46ad2.html",
+      "condition": "used",
+      "price": 12718.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Sonata 2015 for salein Duncan",
+      "vin": "5NPE24AFXFH222941",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7453558efe83.html",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2016 for salein Duncan",
+      "vin": "2HKRM4H4XGH129001",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a59d0b4f4290.html",
+      "condition": "used",
+      "price": 16900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe XL 2016 for salein Duncan",
+      "vin": "KM8SM4HF3GU137039",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/96ec86db9efa.html",
+      "condition": "used",
+      "price": 5998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Forte 2016 for salein Duncan",
+      "vin": "KNAFX4A63G5492839",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d8ec89723001.html",
+      "condition": "used",
+      "price": 13488.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2016 for salein Duncan",
+      "vin": "1C6RR7LT6GS157081",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a77fc8cfd6f4.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Pilot 2017 for salein Duncan",
+      "vin": "5FNYF6H89HB506759",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2b5b5cff3d5e.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Accent 2017 for salein Duncan",
+      "vin": "KMHCT5AE6HU355184",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/67d9be0095eb.html",
+      "condition": "used",
+      "price": 13995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2017 for salein Duncan",
+      "vin": "1C4AJWAGXHL659374",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/03a831ec623e.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 350 2017 for salein Duncan",
+      "vin": "2T2BZMCA8HC120409",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8c2ff4a08a45.html",
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Highlander 2017 for salein Duncan",
+      "vin": "5TDDZRFH9HS434063",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6c36c6b70620.html",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Cruze 2018 for salein Duncan",
+      "vin": "3G1BF6SM8JS627526",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c0efe448ba55.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2018 for salein Duncan",
+      "vin": "2C4RC1EG1JR173883",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2cfc0bd3f3bc.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2018 for salein Duncan",
+      "vin": "2C4RDGDG1JR242833",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ed7eddb71817.html",
+      "condition": "used",
+      "price": 6999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2018 for salein Duncan",
+      "vin": "2HKRW2H97JH103442",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0f2ab443f322.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ Hybrid 2018 for salein Duncan",
+      "vin": "KMHC75LC7JU095044",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/104f00c00632.html",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2018 for salein Duncan",
+      "vin": "KNDPNCAC0J7481953",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4c39663815e1.html",
+      "condition": "used",
+      "price": 17499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus NX 2018 for salein Duncan",
+      "vin": "JTJBARBZXJ2169869",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a1c728877995.html",
+      "condition": "used",
+      "price": 30895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Altima 2018 for salein Duncan",
+      "vin": "1N4AL3AP0JC257688",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/253a75a86da7.html",
+      "condition": "used",
+      "price": 7999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla 2018 for salein Duncan",
+      "vin": "2T1BURHE9JC047150",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8c8584689bfe.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2018 for salein Duncan",
+      "vin": "5TFDZ5BNXJX036199",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a4b710941565.html",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Passat 2018 for salein Duncan",
+      "vin": "1VWJM7A38JC032783",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/81283e53b62b.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X5 2019 for salein Duncan",
+      "vin": "5UXCR6C53KLL01763",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4906e40e2546.html",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Expedition 2019 for salein Duncan",
+      "vin": "1FMJK2AT1KEA46621",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/48a91d281ba8.html",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang 2019 for salein Duncan",
+      "vin": "1FA6P8TH1K5110993",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f3a157c4be75.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Genesis G70 2019 for salein Duncan",
+      "vin": "KMTG74LE8KU011172",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/afc0ed7eb8e1.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Sedan 2019 for salein Duncan",
+      "vin": "2HGFC2F58KH022358",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e9143998320c.html",
+      "condition": "used",
+      "price": 19818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2019 for salein Duncan",
+      "vin": "KMHD84LF7KU752514",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e41598179e4d.html",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ Electric 2019 for salein Duncan",
+      "vin": "KMHC85LH2KU034825",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/655e066ecc9d.html",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2019 for salein Duncan",
+      "vin": "KM8K2CAA9KU362976",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/14eb4ca4aca9.html",
+      "condition": "used",
+      "price": 16995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona Electric 2019 for salein Duncan",
+      "vin": "KM8K33AGXKU051512",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/014580f816d4.html",
+      "condition": "used",
+      "price": 24418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2019 for salein Duncan",
+      "vin": "5NMS23AD9KH101319",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4fe5f39fa5b1.html",
+      "condition": "used",
+      "price": 19618.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Veloster 2019 for salein Duncan",
+      "vin": "KMHTG6AF7KU012281",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/736fe0d5afdc.html",
+      "condition": "used",
+      "price": 13495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jaguar E-PACE 2019 for salein Duncan",
+      "vin": "SADFL2GX1K1Z51485",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8f0a284be338.html",
+      "condition": "used",
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2019 for salein Duncan",
+      "vin": "1C4PJMDNXKD344942",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/97815acaec2d.html",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2019 for salein Duncan",
+      "vin": "3C4NJDCB2KT753610",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7c65fceb5312.html",
+      "condition": "used",
+      "price": 16995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2019 for salein Duncan",
+      "vin": "1C4GJXAG9KW633077",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3a951695ec51.html",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2019 for salein Duncan",
+      "vin": "KNDJP3A58K7644268",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/99310b2e6946.html",
+      "condition": "used",
+      "price": 16795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lincoln Nautilus 2019 for salein Duncan",
+      "vin": "2LMPJ8LP3KBL51506",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c77a601d6d31.html",
+      "condition": "used",
+      "price": 27800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Eclipse Cross 2019 for salein Duncan",
+      "vin": "JA4AT3AA4KZ603837",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/fbc502bb866f.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Altima 2019 for salein Duncan",
+      "vin": "1N4BL4BW1KN318679",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f3425ccdc792.html",
+      "condition": "used",
+      "price": 13495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2019 for salein Duncan",
+      "vin": "3N1CP5CU4KL501812",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/960b23114d7e.html",
+      "condition": "used",
+      "price": 13818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2019 for salein Duncan",
+      "vin": "5N1AT2MV2KC808862",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8accbac419bf.html",
+      "condition": "used",
+      "price": 8900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Sentra 2019 for salein Duncan",
+      "vin": "3N1AB7APXKY210846",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6f1fcf19cf65.html",
+      "condition": "used",
+      "price": 11999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2019 for salein Duncan",
+      "vin": "1C6RR7LTXKS688342",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d68dbee324bd.html",
+      "condition": "used",
+      "price": 29295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2019 for salein Duncan",
+      "vin": "3C6TR5EJ5KG565304",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2eb7958c5441.html",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2019 for salein Duncan",
+      "vin": "3C63R3FL9KG571188",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/cc78fd1d8d27.html",
+      "condition": "used",
+      "price": 61995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Ascent 2019 for salein Duncan",
+      "vin": "4S4WMADD6K3403155",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/94ac0228a2cb.html",
+      "condition": "used",
+      "price": 22888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Crosstrek 2019 for salein Duncan",
+      "vin": "JF2GTANC1KH229839",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/927c836a56c2.html",
+      "condition": "used",
+      "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2020 for salein Duncan",
+      "vin": "5J8TC2H95LL803264",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7061291aeaf3.html",
+      "condition": "used",
+      "price": 38800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Spark 2020 for salein Duncan",
+      "vin": "KL8CD6SA1LC456885",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/67772eb99e4f.html",
+      "condition": "used",
+      "price": 12995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra GT 2020 for salein Duncan",
+      "vin": "KMHH55LC3LU135487",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f4b4dfc28577.html",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona Electric 2020 for salein Duncan",
+      "vin": "KM8K33AG3LU063938",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a7ec11417030.html",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Palisade 2020 for salein Duncan",
+      "vin": "KM8R3DHE0LU167375",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/59103f23b223.html",
+      "condition": "used",
+      "price": 26818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI 5 Door 2020 for salein Duncan",
+      "vin": "WMWXU7C02L2L51070",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/207a8beaa04a.html",
+      "condition": "used",
+      "price": 18495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-9 2020 for salein Duncan",
+      "vin": "JM3TCBCY7L0420741",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/480398d0cde0.html",
+      "condition": "used",
+      "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Eclipse Cross 2020 for salein Duncan",
+      "vin": "JA4AT4AA4LZ611847",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ff8e13d6b2d2.html",
+      "condition": "used",
+      "price": 19499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander 2020 for salein Duncan",
+      "vin": "JA4AZ2A35LZ611067",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/95ca56df64b2.html",
+      "condition": "used",
+      "price": 18350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2020 for salein Duncan",
+      "vin": "JA4J24A58LZ612764",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/191d896d36c5.html",
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota 4Runner 2020 for salein Duncan",
+      "vin": "JTEBU5JR6L5804281",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5facf2166b29.html",
+      "condition": "used",
+      "price": 51995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2020 for salein Duncan",
+      "vin": "5TFDZ5BN5LX055522",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f0f63d8b67a0.html",
+      "condition": "used",
+      "price": 47995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura TLX 2021 for salein Duncan",
+      "vin": "19UUB6F97MA800087",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/79c0346c925e.html",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra Hybrid 2021 for salein Duncan",
+      "vin": "KMHLM4AJ8MU004663",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/db43c04e9878.html",
+      "condition": "used",
+      "price": 23118.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ Hybrid 2021 for salein Duncan",
+      "vin": "KMHC05LCXMU251067",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/be81ddd31808.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ Plug-In Hybrid 2021 for salein Duncan",
+      "vin": "KMHC65LD8MU261328",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/42001af7f013.html",
+      "condition": "used",
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe Hybrid 2021 for salein Duncan",
+      "vin": "KM8S3DA14MU003508",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/be7240ab56e6.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2021 for salein Duncan",
+      "vin": "KMHRC8A35MU090150",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/dc2e22f51a06.html",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2021 for salein Duncan",
+      "vin": "1C6JJTEG5ML598400",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e9ac26d58ec3.html",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2021 for salein Duncan",
+      "vin": "KNDJ23AU2M7756623",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/180a450695c7.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Telluride 2021 for salein Duncan",
+      "vin": "5XYP5DHC3MG170326",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/36c59bca648f.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-3 2021 for salein Duncan",
+      "vin": "JM1DKFC71M1512115",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e3986333619f.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Tesla Model 3 2021 for salein Duncan",
+      "vin": "5YJ3E1EA4MF030759",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/553a3f80a167.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Tesla Model Y 2021 for salein Duncan",
+      "vin": "5YJYGDEE8MF229916",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7bebc6eb0d20.html",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla 2021 for salein Duncan",
+      "vin": "JTDBAMDE6MJ018523",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7d7a9746c4e8.html",
+      "condition": "used",
+      "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2021 for salein Duncan",
+      "vin": "5TFCZ5AN9MX279259",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4868e83bd2f9.html",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW iX 2022 for salein Duncan",
+      "vin": "WB523CF05NCJ71563",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7eb02aec615d.html",
+      "condition": "used",
+      "price": 48495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Odyssey 2022 for salein Duncan",
+      "vin": "5FNRL6H65NB503221",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b936877eda61.html",
+      "condition": "used",
+      "price": 41995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson Hybrid 2022 for salein Duncan",
+      "vin": "KM8JCCA10NU021477",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/aa4d3623446f.html",
+      "condition": "used",
+      "price": 43624.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2022 for salein Duncan",
+      "vin": "1C4PJMBX7ND505949",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0aec2a03c827.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2022 for salein Duncan",
+      "vin": "3C4NJDBB5NT150737",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1a27b722ecdb.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2022 for salein Duncan",
+      "vin": "KNDPNCAC8N7986936",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a32fc190a557.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Mirage 2022 for salein Duncan",
+      "vin": "ML32AUHJ4NH006017",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b937f641c84a.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2022 for salein Duncan",
+      "vin": "3N1CP5BV6NL504550",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c0f323f9ae92.html",
+      "condition": "used",
+      "price": 16295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Sentra 2022 for salein Duncan",
+      "vin": "3N1AB8DV9NY300588",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/34e73fc8bf7a.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Passat 2022 for salein Duncan",
+      "vin": "1VWBA7A3XNC008939",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7823ea46c19d.html",
+      "condition": "used",
+      "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe Hybrid 2023 for salein Duncan",
+      "vin": "KM8S5DA11PU095966",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e9646ce93d9e.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2023 for salein Duncan",
+      "vin": "1C6JJTFM7PL527398",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b0403d07df47.html",
+      "condition": "used",
+      "price": 41995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia EV6 2023 for salein Duncan",
+      "vin": "KNDC4DLC7P5142731",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7cf01eb36f88.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Niro EV 2023 for salein Duncan",
+      "vin": "KNDCP3L16P5066967",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/07584abaa845.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia RIO 2023 for salein Duncan",
+      "vin": "3KPA25AD7PE570043",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9be5e60a5ba9.html",
+      "condition": "used",
+      "price": 19999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Seltos 2023 for salein Duncan",
+      "vin": "KNDEU2AA7P7426265",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c0ecd99c11a7.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2023 for salein Duncan",
+      "vin": "JN8BT3BB3PW189660",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5d14cf69cf77.html",
+      "condition": "used",
+      "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru WRX 2023 for salein Duncan",
+      "vin": "JF1VBAA62P9814591",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a946d3f8a52c.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2024 for salein Duncan",
+      "vin": "5J8TC2H85RL800977",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c5d07b1a6888.html",
+      "condition": "used",
+      "price": 50995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra Hybrid 2024 for salein Duncan",
+      "vin": "KMHLN4DJ7RU097353",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c578f154e803.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson Hybrid 2024 for salein Duncan",
+      "vin": "KM8JCCD1XRU182095",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ef32261cf9e3.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2024 for salein Duncan",
+      "vin": "1C4PJXAGXRW256706",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/39a4ec11ec62.html",
+      "condition": "used",
+      "price": 34900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Mirage 2024 for salein Duncan",
+      "vin": "ML32AUHJ7RH038885",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6aad31f92d3e.html",
+      "condition": "used",
+      "price": 16295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Armada 2024 for salein Duncan",
+      "vin": "JN8AY2BDXR9707113",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/efd4b6fc856d.html",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Polestar Polestar 2 2024 for salein Duncan",
+      "vin": "YSMFD3KA8RL224476",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3eff36892b1e.html",
+      "condition": "used",
+      "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Sienna 2024 for salein Duncan",
+      "vin": "5TDGRKEC4RS216284",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/53becad367fb.html",
+      "condition": "used",
+      "price": 51800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2024 for salein Duncan",
+      "vin": "3VVEX7B27RM062564",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/231e12ae3131.html",
+      "condition": "used",
+      "price": 23495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2025 for salein Duncan",
+      "vin": "3FMCR9BN5SRE29701",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/083502ef1edf.html",
+      "condition": "used",
+      "price": 32999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2025 for salein Duncan",
+      "vin": "3FTCW8TA7SRB05619",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3de741663a6d.html",
+      "condition": "used",
+      "price": 51995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Ranger 2025 for salein Duncan",
+      "vin": "1FTER4KH4SLE01509",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0114f73b719e.html",
+      "condition": "used",
+      "price": 54800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Canyon 2025 for salein Duncan",
+      "vin": "1GTP2DEK3S1165404",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/dc3f06455b31.html",
+      "condition": "used",
+      "price": 59999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 3500 HD 2025 for salein Duncan",
+      "vin": "1GT4UVEY4SF315577",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9078a34ace8a.html",
+      "condition": "used",
+      "price": 89995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Accord Hybrid 2025 for salein Duncan",
+      "vin": "1HGCY2F89SA800504",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/437468a5f4bf.html",
+      "condition": "used",
+      "price": 43995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona Electric 2025 for salein Duncan",
+      "vin": "KM8HE3A62SU030021",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/34780825cb63.html",
+      "condition": "used",
+      "price": 44105.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Sonata 2025 for salein Duncan",
+      "vin": "KMHL44JA8SA498327",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4509847d8cc3.html",
+      "condition": "used",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2025 for salein Duncan",
+      "vin": "5XYRGDJC6SG358381",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5cbcd60bdd50.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-30 2025 for salein Duncan",
+      "vin": "3MVDMBDM2SM816589",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d5dfa5feb85c.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-90 PHEV 2025 for salein Duncan",
+      "vin": "JM3KKDHA2S1215505",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c3f138751588.html",
+      "condition": "used",
+      "price": 46495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Eclipse Cross 2025 for salein Duncan",
+      "vin": "JA4ATVAA0SZ613096",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f1dd5ec223fa.html",
+      "condition": "used",
+      "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Polestar Polestar 2 2025 for salein Duncan",
+      "vin": "YSMFD3KA1SL314123",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0f2ee5af24b1.html",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Crosstrek 2025 for salein Duncan",
+      "vin": "JF2GUHFC3S8342194",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d9a31bdf658e.html",
+      "condition": "used",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Cross 2025 for salein Duncan",
+      "vin": "7MUCAABG7SV140949",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/636e59cdc5c8.html",
+      "condition": "used",
+      "price": 33818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2025 for salein Duncan",
+      "vin": "2T3B1RFV7SC553662",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6cc33b44340c.html",
+      "condition": "used",
+      "price": 38999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID. Buzz 2025 for salein Duncan",
+      "vin": "WVG6YVEB0SH025717",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/859e34813478.html",
+      "condition": "used",
+      "price": 62995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Blazer 2026 for salein Duncan",
+      "vin": "3GNKBKRS0TS123479",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d59a020aa2b8.html",
+      "condition": "used",
+      "price": 52888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2026 for salein Duncan",
+      "vin": "3GNAXPEG5TL375606",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8950bcf91e3a.html",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2026 for salein Duncan",
+      "vin": "3FMCR9CN4TRE15756",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1fb23b685283.html",
+      "condition": "used",
+      "price": 34999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick Hybrid 2026 for salein Duncan",
+      "vin": "3FTTW8H3XTRA30250",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/fdbf42f88bff.html",
+      "condition": "used",
+      "price": 41988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic 2026 for salein Duncan",
+      "vin": "2HGFE2F50TH110459",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/26c65625a4a9.html",
+      "condition": "used",
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-90 MHEV 2026 for salein Duncan",
+      "vin": "JM3KKCHD3T1378413",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1335586a70d5.html",
+      "condition": "used",
+      "price": 46995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla 2026 for salein Duncan",
+      "vin": "JTDBCMFE2T3143903",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ff7146636fa0.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2026 for salein Duncan",
+      "vin": "3VV2C7B26TM027407",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1cba406a5dda.html",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2026 for salein Duncan",
+      "vin": "3VVER7RM0TM013344",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a0cd61babc1a.html",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Polaris RZR 4 1000 2021 for salein Duncan",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5d1010b3db63.html",
+      "condition": "used",
+      "price": 24999.0,
       "price_currency": "CAD"
     },
     {
@@ -114,17 +1273,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2003 Ford Explorer ",
-      "vin": "1FMZU73E63ZB08890",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d2841087fec7.html",
-      "year": 2003,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 2999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2003 Toyota RAV4 ",
       "vin": "JTEHH20VX30205053",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/520f8f8fc330.html",
@@ -133,17 +1281,6 @@
       "model": "RAV4",
       "condition": "used",
       "price": 2999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2004 Ford F-250 ",
-      "vin": "1FTNW21P64EA31483",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a455dbde0b2f.html",
-      "year": 2004,
-      "make": "Ford",
-      "model": "F-250",
-      "condition": "used",
-      "price": 8995.0,
       "price_currency": "CAD"
     },
     {
@@ -166,17 +1303,6 @@
       "model": "Corolla",
       "condition": "used",
       "price": 4599.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2004 Toyota Matrix ",
-      "vin": "2T1KR32EX4C802768",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9b6129f6e6ec.html",
-      "year": 2004,
-      "make": "Toyota",
-      "model": "Matrix",
-      "condition": "used",
-      "price": 4995.0,
       "price_currency": "CAD"
     },
     {
@@ -224,17 +1350,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2005 Toyota RAV4 ",
-      "vin": "JTEHD20V956035053",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/26f52b620029.html",
-      "year": 2005,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 7988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2005 Volvo XC90 ",
       "vin": "YV1CZ911651148146",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/83b6e867cc0a.html",
@@ -243,17 +1358,6 @@
       "model": "XC90",
       "condition": "used",
       "price": 5400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2006 Kia Sorento ",
-      "vin": "KNDJC733465591892",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d419ddc96678.html",
-      "year": 2006,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 4500.0,
       "price_currency": "CAD"
     },
     {
@@ -290,28 +1394,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2007 Chevrolet Impala LSin Duncan",
-      "vin": "2G1WB58N779377211",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6cef5a8f5369.html",
-      "year": 2007,
-      "make": "Chevrolet",
-      "model": "Impala",
-      "condition": "used",
-      "price": 2500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2007 Chevrolet Impala ",
-      "vin": "2G1WB58N779377211",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d9d558b267f8.html",
-      "year": 2007,
-      "make": "Chevrolet",
-      "model": "Impala",
-      "condition": "used",
-      "price": 2500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2007 Hyundai Accent ",
       "vin": "KMHCN35C47U020818",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/018ec04579e7.html",
@@ -320,50 +1402,6 @@
       "model": "Accent",
       "condition": "used",
       "price": 2999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2007 Mazda CX-9 ",
-      "vin": "JM3TB28Y570102103",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/aedf75553b7a.html",
-      "year": 2007,
-      "make": "Mazda",
-      "model": "CX-9",
-      "condition": "used",
-      "price": 6995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2007 Nissan Versa ",
-      "vin": "3N1BC13E07L370183",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/375b9d04235f.html",
-      "year": 2007,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 3995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Chevrolet Cobalt ",
-      "vin": "1G1AJ55F887294867",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/76d78bf93496.html",
-      "year": 2008,
-      "make": "Chevrolet",
-      "model": "Cobalt",
-      "condition": "used",
-      "price": 3995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Chevrolet Equinox ",
-      "vin": "2CNDL23F386287000",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2f4827363f2b.html",
-      "year": 2008,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 2888.0,
       "price_currency": "CAD"
     },
     {
@@ -411,6 +1449,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2008 Jeep Grand Cherokee Limitedin Duncan",
+      "vin": "1J8HR58M28C212043",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/52286c33bc99.html",
+      "year": 2008,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 3998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2008 Jeep Patriot ",
       "vin": "1J8FF28W48D680480",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6282b9b3b0f8.html",
@@ -419,28 +1468,6 @@
       "model": "Patriot",
       "condition": "used",
       "price": 3499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Toyota Tundra DLXin Duncan",
-      "vin": "5TFLV52138X068961",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/127af9dc5e1c.html",
-      "year": 2008,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 11422.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Toyota Tundra ",
-      "vin": "5TFLV52138X068961",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/013f4917c77c.html",
-      "year": 2008,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 11422.0,
       "price_currency": "CAD"
     },
     {
@@ -474,28 +1501,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 8995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2009 Hyundai Elantra GLin Duncan",
-      "vin": "KMHDU45D29U743561",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9d4e37d0da0b.html",
-      "year": 2009,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 2199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2009 Hyundai Elantra ",
-      "vin": "KMHDU45D29U743561",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d27341815ee9.html",
-      "year": 2009,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 2199.0,
       "price_currency": "CAD"
     },
     {
@@ -543,17 +1548,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2009 Toyota RAV4 ",
-      "vin": "JTMBF31V095002382",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ae06ec1d05f3.html",
-      "year": 2009,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 2999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2010 Dodge Journey ",
       "vin": "3D4PG5FV6AT194373",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b4f3be18d660.html",
@@ -598,39 +1592,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Toyota Corolla ",
-      "vin": "2T1BU4EEXAC382859",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f122bf425686.html",
-      "year": 2010,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 10995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Audi A3 ",
-      "vin": "WAUMFCFM2BA022989",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3d0d685db253.html",
-      "year": 2011,
-      "make": "Audi",
-      "model": "A3",
-      "condition": "used",
-      "price": 4999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 BMW 328 ",
-      "vin": "WBAKF3C55BE567985",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/18e5a16a3782.html",
-      "year": 2011,
-      "make": "BMW",
-      "model": "328",
-      "condition": "used",
-      "price": 2995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2011 Buick Regal ",
       "vin": "2G4G05GV0B9193137",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ecfb4d8498c3.html",
@@ -661,28 +1622,6 @@
       "model": "Fiesta",
       "condition": "used",
       "price": 4999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra LIMITEDin Duncan",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a7c4e4e2dc38.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9ecd38a9f75c.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 1995.0,
       "price_currency": "CAD"
     },
     {
@@ -1852,17 +2791,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Jeep Compass ",
-      "vin": "1J4NF4FB5BD258718",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a572a4642361.html",
-      "year": 2011,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 3999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2011 Kia Sedona ",
       "vin": "KNDMG4C7XB6381076",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d42a67febe8c.html",
@@ -1951,25 +2879,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Nissan Maxima ",
-      "vin": "1N4AA5AP5CC827446",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/897baf968ad6.html",
+      "name": "2012 Kia Soul Basein Duncan",
+      "vin": "KNDJT2A55C7440647",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a7642661ec5d.html",
       "year": 2012,
-      "make": "Nissan",
-      "model": "Maxima",
+      "make": "Kia",
+      "model": "Soul",
       "condition": "used",
-      "price": 6999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Audi A5 ",
-      "vin": "WAUDFBFR3DA055430",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5b213493ef20.html",
-      "year": 2013,
-      "make": "Audi",
-      "model": "A5",
-      "condition": "used",
-      "price": 21995.0,
+      "price": 3818.0,
       "price_currency": "CAD"
     },
     {
@@ -2061,39 +2978,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Hyundai Elantra ",
-      "vin": "5NPDH4AE8DH220541",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/a10e11be8262.html",
-      "year": 2013,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 5999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Hyundai Santa Fe LIMITED AWD! LEATHER! SUNROOF! LOCALLY OWNED!in Duncan",
-      "vin": "5XYZUDLA5DG080032",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5f75f69b0253.html",
-      "year": 2013,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 5995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Hyundai Santa Fe ",
-      "vin": "5XYZUDLA5DG080032",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9bea3a5a0f65.html",
-      "year": 2013,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 5995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2013 Hyundai Sonata ",
       "vin": "5NPEC4AC4DH590807",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8abf52e3cb62.html",
@@ -2138,6 +3022,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2013 Mercedes-Benz GL 350 BlueTEC 7 Passenger Heated Seats Power Liftgate Navigation Panoramic Sunroof 3rd Row Seatingin Duncan",
+      "vin": "4JGDF2EE0DA110865",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/216870ef7e7d.html",
+      "year": 2013,
+      "make": "Mercedes-Benz",
+      "model": "GL 350 BlueTEC 7 Passenger Heated Seats Power Liftgate Navigation Panoramic Sunroof 3rd Row Seatingin Duncan",
+      "condition": "used",
+      "price": 7818.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2013 Nissan Juke ",
       "vin": "JN8AF5MV7DT206494",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5170c1b202f6.html",
@@ -2157,17 +3052,6 @@
       "model": "Outback",
       "condition": "used",
       "price": 6499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Volkswagen Golf Wagon ",
-      "vin": "3VWML7AJ1DM629792",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/738c73bf7cb4.html",
-      "year": 2013,
-      "make": "Volkswagen",
-      "model": "Golf Wagon",
-      "condition": "used",
-      "price": 5995.0,
       "price_currency": "CAD"
     },
     {
@@ -2258,47 +3142,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Ford Fusion ",
-      "vin": "1FA6P0G74E5365158",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/391ccb41a1a2.html",
-      "year": 2014,
-      "make": "Ford",
-      "model": "Fusion",
-      "condition": "used",
-      "price": 5999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 GMC Sierra 1500 ",
-      "vin": "3GTU2UECXEG382109",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/49fbc74a0661.html",
-      "year": 2014,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 20999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 GMC Terrain ",
-      "vin": "2GKFLVEK5E6130318",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/494f9347b0f3.html",
-      "year": 2014,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 3995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Hyundai Santa Fe Sport PREMIUM! AWD! LOCALLY OWNED & SERVICED!in Duncan",
-      "vin": "5XYZUDLB0EG197110",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9e96a6829a67.html",
+      "name": "2014 Hyundai Elantra GLin Duncan",
+      "vin": "5NPDH4AE7EH505152",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/711e83d8bf89.html",
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe",
+      "model": "Elantra",
       "condition": "used",
-      "price": 9359.0,
+      "price": 4998.0,
       "price_currency": "CAD"
     },
     {
@@ -2378,17 +3229,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Kia Optima Hybrid ",
-      "vin": "KNAGN4AD1E5064113",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d35f1a46161f.html",
-      "year": 2014,
-      "make": "Kia",
-      "model": "Optima Hybrid",
-      "condition": "used",
-      "price": 5999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 MINI Paceman ",
       "vin": "WMWSS7C56EWN71948",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/672251d7c6cc.html",
@@ -2400,36 +3240,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Nissan Pathfinder ",
-      "vin": "5N1AR2MM5EC669644",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/139f22d60e58.html",
+      "name": "2014 Subaru Forester 5dr Wgn Auto 2.5i Heated Front Seats Bluetooth Connectivity Cruise Control Backup Camera Bluetoothin Duncan",
+      "vin": "JF2SJCBC4EH420515",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e556ba04d86d.html",
       "year": 2014,
-      "make": "Nissan",
-      "model": "Pathfinder",
+      "make": "Subaru",
+      "model": "Forester 5dr Wgn Auto 2.5i Heated Front Seats Bluetooth Connectivity Cruise Control Backup Camera Bluetoothin Duncan",
       "condition": "used",
-      "price": 9999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Nissan Rogue ",
-      "vin": "5N1AT2MT9EC828352",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9fa5c4cad401.html",
-      "year": 2014,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 RAM 1500 ",
-      "vin": "1C6RR7MT5ES184042",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/20fb4f25a189.html",
-      "year": 2014,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 19499.0,
+      "price": 12433.0,
       "price_currency": "CAD"
     },
     {
@@ -2466,36 +3284,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Chevrolet Equinox ",
-      "vin": "2GNFLEEK6F6430924",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5733ac824bea.html",
-      "year": 2015,
-      "make": "Chevrolet",
-      "model": "Equinox",
+      "name": "2014 Volkswagen Tiguan 4MOTION 4dr Auto Trendline Turbo Heated Leather Seats Panoramic Sunroof Navigation Bluetoothin Duncan",
+      "vin": "WVGJV3AXXEW568792",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/85257e99b550.html",
+      "year": 2014,
+      "make": "Volkswagen",
+      "model": "Tiguan 4MOTION 4dr Auto Trendline Turbo Heated Leather Seats Panoramic Sunroof Navigation Bluetoothin Duncan",
       "condition": "used",
-      "price": 6995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Chevrolet Impala ",
-      "vin": "2G1125S34F9164622",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/17c79a6df281.html",
-      "year": 2015,
-      "make": "Chevrolet",
-      "model": "Impala",
-      "condition": "used",
-      "price": 4499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG2FR744535",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2d9a0f8b91a9.html",
-      "year": 2015,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 5999.0,
+      "price": 7498.0,
       "price_currency": "CAD"
     },
     {
@@ -2507,50 +3303,6 @@
       "model": "Journey",
       "condition": "used",
       "price": 3999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Honda Civic Sedan LX! HEATED SEATS! BLUETOOTH! BACKUP CAM! RELIABLE!in Duncan",
-      "vin": "2HGFB2F47FH021315",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3b68f4bac442.html",
-      "year": 2015,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 13418.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Honda Civic Sedan ",
-      "vin": "2HGFB2F47FH021315",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7949dcad67c5.html",
-      "year": 2015,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 13418.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Hyundai Elantra ",
-      "vin": "KMHDH4AH3FU405255",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e551d2055376.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Hyundai Elantra GT ",
-      "vin": "KMHD35LH0FU250195",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1261ba535ef1.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 10995.0,
       "price_currency": "CAD"
     },
     {
@@ -2606,17 +3358,6 @@
       "model": "Sorento",
       "condition": "used",
       "price": 8999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Nissan Juke ",
-      "vin": "JN8AF5MV7FT562396",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2b3a2009bd3f.html",
-      "year": 2015,
-      "make": "Nissan",
-      "model": "Juke",
-      "condition": "used",
-      "price": 5495.0,
       "price_currency": "CAD"
     },
     {
@@ -2697,28 +3438,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Acura MDX ",
-      "vin": "5FRYD4H46GB508148",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/877bcf51b939.html",
-      "year": 2016,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 BMW X5 ",
-      "vin": "5UXKR0C52G0S91437",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5d81718ef0e2.html",
-      "year": 2016,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 22495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Dodge Grand Caravan ",
       "vin": "2C4RDGDG5GR362305",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6d32bfab3b8a.html",
@@ -2741,17 +3460,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Ford F-350 ",
-      "vin": "1FBZX2CG5GKA91261",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2bb6b3e7325d.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "used",
-      "price": 22999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Ford Flex ",
       "vin": "2FMHK6DT0GBA08575",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/42696b2fe239.html",
@@ -2760,17 +3468,6 @@
       "model": "Flex",
       "condition": "used",
       "price": 8999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda Civic ",
-      "vin": "2HGFC2F79GH002211",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6d98512306fc.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 17999.0,
       "price_currency": "CAD"
     },
     {
@@ -2807,17 +3504,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Hyundai Santa Fe Sport LIMITED ADVENTURE EDITION! AWD! FULL LOAD! BEAUTY!in Duncan",
-      "vin": "5XYZUDLA7GG364461",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d9dd098c515d.html",
-      "year": 2016,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 13687.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA7GG364461",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/804a4573d8b0.html",
@@ -2826,6 +3512,17 @@
       "model": "Santa Fe",
       "condition": "used",
       "price": 13687.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Hyundai Santa Fe XL FWD 4dr 3.3L Auto Base 7 Passenger Seating Bluetooth Rearview Camera Heated Front Seatsin Duncan",
+      "vin": "KM8SM4HF3GU137039",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b2fbb3e00204.html",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Santa Fe XL FWD 4dr 3.3L Auto Base 7 Passenger Seating Bluetooth Rearview Camera Heated Front Seatsin Duncan",
+      "condition": "used",
+      "price": 5998.0,
       "price_currency": "CAD"
     },
     {
@@ -2848,17 +3545,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Kia Rio ",
-      "vin": "KNADM4A35G6693660",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/94246efcf97e.html",
-      "year": 2016,
-      "make": "Kia",
-      "model": "Rio",
-      "condition": "used",
-      "price": 4999.0,
       "price_currency": "CAD"
     },
     {
@@ -2917,39 +3603,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Nissan Pathfinder ",
-      "vin": "5N1AR2MM7GC656705",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/af13b24f25f2.html",
-      "year": 2016,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 16495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Nissan Titan XD ",
-      "vin": "1N6BA1F43GN501979",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d595188a119a.html",
-      "year": 2016,
-      "make": "Nissan",
-      "model": "Titan",
-      "condition": "used",
-      "price": 20999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Subaru Crosstrek ",
-      "vin": "JF2GPBBC2GH215356",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b445e62d6b38.html",
-      "year": 2016,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Subaru Outback ",
       "vin": "4S4BSCNC4G3238350",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d16ad54bc93d.html",
@@ -2994,17 +3647,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X1 ",
-      "vin": "WBXHT3C36H5F68792",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/52e4ec403c79.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Cadillac Ats ",
       "vin": "1G6AH1RX9H0210467",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2f23c5df4963.html",
@@ -3024,17 +3666,6 @@
       "model": "Cruze",
       "condition": "used",
       "price": 11999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Chevrolet Spark ",
-      "vin": "KL8CD6SA1HC758247",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/cf8ccac3c309.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Spark",
-      "condition": "used",
-      "price": 9995.0,
       "price_currency": "CAD"
     },
     {
@@ -3071,6 +3702,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Ford Edge 4dr SEL AWD Heated Front Seats Heated Steering Wheel Dual Zone Climate Control Backup Camerain Duncan",
+      "vin": "2FMPK4J91HBC19049",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2cb6d3db8275.html",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Edge 4dr SEL AWD Heated Front Seats Heated Steering Wheel Dual Zone Climate Control Backup Camerain Duncan",
+      "condition": "used",
+      "price": 7818.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Ford Edge ",
       "vin": "2FMPK4K8XHBB70374",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/06d9e152dc38.html",
@@ -3093,17 +3735,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford F-150 ",
-      "vin": "1FTEW1EG9HFB00252",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ac7617ddc650.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 42800.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Ford Super Duty F-350 DRW ",
       "vin": "1FT8W3DT3HEC27124",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/95cf30d700bc.html",
@@ -3115,17 +3746,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Transit ",
-      "vin": "1FBAX2XV4HKA79237",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/96ce2f95cdac.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Transit",
-      "condition": "used",
-      "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 GMC Canyon ",
       "vin": "1GTG6CEN4H1295743",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0aa85afbfabd.html",
@@ -3134,28 +3754,6 @@
       "model": "Canyon",
       "condition": "used",
       "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Honda CR-V ",
-      "vin": "2HKRW2H92HH119252",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d95d8a04c8dc.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport ",
-      "vin": "5XYZUDLB2HG474425",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b34fe799777d.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 12984.0,
       "price_currency": "CAD"
     },
     {
@@ -3236,17 +3834,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Mazda CX-5 ",
-      "vin": "JM3KFBDL6H0191000",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f5b53f3d250a.html",
-      "year": 2017,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Mitsubishi Mirage ",
       "vin": "ML32A3HJ8HH000977",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/99b3392c08b8.html",
@@ -3255,17 +3842,6 @@
       "model": "Mirage",
       "condition": "used",
       "price": 11999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Nissan Qashqai SV! AWD! LOCALLY OWNED & SERVICED! GREAT PRICE!in Duncan",
-      "vin": "JN1BJ1CR5HW124864",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e8f8361d82ee.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 13994.0,
       "price_currency": "CAD"
     },
     {
@@ -3379,17 +3955,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Ford Escape SE 4x4! NO ACCIDENTS! CLEAN HISTORY!in Duncan",
-      "vin": "1FMCU9GD8JUC93148",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f173455021ae.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 12695.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Ford Escape ",
       "vin": "1FMCU9GD8JUC93148",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5a899dc5d342.html",
@@ -3434,17 +3999,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 GMC Sierra 3500 HD ",
-      "vin": "1GT42YEY1JF215801",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/875fb66a3dca.html",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Sierra 3500",
-      "condition": "used",
-      "price": 38999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 GMC Terrain ",
       "vin": "3GKALXEX5JL136773",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/190025188873.html",
@@ -3486,17 +4040,6 @@
       "model": "Accent",
       "condition": "used",
       "price": 13995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Hyundai Kona ",
-      "vin": "KM8K6CAAXJU118028",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d397194e061c.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 13884.0,
       "price_currency": "CAD"
     },
     {
@@ -3610,17 +4153,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Micra ",
-      "vin": "3N1CK3CP1JL258374",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b1f7ffd135fd.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Micra",
-      "condition": "used",
-      "price": 15995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Nissan Murano ",
       "vin": "5N1AZ2MHXJN141390",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/770d6127b57a.html",
@@ -3665,17 +4197,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 ",
-      "vin": "1C6RR7KG5JS346056",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5f182e1844dd.html",
-      "year": 2018,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 RAM 2500 ",
       "vin": "3C6TR5DT1JG233393",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f405ab6b2720.html",
@@ -3709,28 +4230,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota Highlander ",
-      "vin": "5TDJZRFH6JS544142",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8aa6e36d4ecd.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Tiguan ",
-      "vin": "3VV4B7AXXJM098356",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4bc75014353a.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 19999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Acura RDX ",
       "vin": "5J8TC2H96KL806396",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1a6f78dceb16.html",
@@ -3753,17 +4252,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Chevrolet Camaro ",
-      "vin": "1G1FD1RS6K0120003",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/922aa8fa9782.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "condition": "used",
-      "price": 28895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Chevrolet Equinox ",
       "vin": "3GNAXWEU3KL322871",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/feb41448beee.html",
@@ -3772,17 +4260,6 @@
       "model": "Equinox",
       "condition": "used",
       "price": 13995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Dodge Durango ",
-      "vin": "1C4RDJDG1KC708106",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/fcb07f6e49df.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 24895.0,
       "price_currency": "CAD"
     },
     {
@@ -3874,58 +4351,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Elantra ",
-      "vin": "KMHD84LF7KU752514",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e41598179e4d.html",
+      "name": "2019 Hyundai Kona Electric Ultimatein Duncan",
+      "vin": "KM8K33AGXKU051512",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d3016abf5d20.html",
       "year": 2019,
       "make": "Hyundai",
-      "model": "Elantra",
+      "model": "Kona Electric",
       "condition": "used",
-      "price": 10995.0,
+      "price": 24418.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Santa Fe ESSENTIALin Duncan",
+      "name": "2019 Hyundai Santa Fe LOW MILEAGE!in Duncan",
       "vin": "5NMS23AD9KH101319",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/866dc3d48f90.html",
       "year": 2019,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 19818.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai Santa Fe ULTIMATEin Duncan",
-      "vin": "5NMS5CAA4KH061132",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d5e41bbb6b8a.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 18818.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai Santa Fe ",
-      "vin": "5NMS5CAA4KH061132",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4fe5f39fa5b1.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 18818.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai Sonata ",
-      "vin": "5NPE34AF1KH769569",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8535a20879e2.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "used",
-      "price": 13995.0,
+      "price": 19618.0,
       "price_currency": "CAD"
     },
     {
@@ -3937,72 +4381,6 @@
       "model": "Tucson",
       "condition": "used",
       "price": 17995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai Veloster ",
-      "vin": "KMHTG6AF7KU012281",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/736fe0d5afdc.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "condition": "used",
-      "price": 11995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jaguar E-PACE ",
-      "vin": "SADFL2GX1K1Z51485",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8f0a284be338.html",
-      "year": 2019,
-      "make": "Jaguar",
-      "model": "E-PACE",
-      "condition": "used",
-      "price": 20395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Cherokee ",
-      "vin": "1C4PJMBN6KD148418",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/97815acaec2d.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 18499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Compass ",
-      "vin": "3C4NJDCB2KT753610",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7c65fceb5312.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 18295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Grand Cherokee ",
-      "vin": "1C4RJFAG9KC719753",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3e2fb626d01a.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Wrangler ",
-      "vin": "1C4GJXAG9KW633077",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/3a951695ec51.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -4028,50 +4406,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Soul ",
-      "vin": "KNDJP3A58K7644268",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/99310b2e6946.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Kia Sportage ",
-      "vin": "KNDPMCACXK7559756",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ef6a814606f6.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Altima ",
-      "vin": "1N4BL4BW1KN318679",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f3425ccdc792.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Altima",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Micra ",
-      "vin": "3N1CK3CP1KL213579",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4f478374a953.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Micra",
-      "condition": "used",
-      "price": 11795.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Nissan Murano ",
       "vin": "5N1AZ2MS9KN137697",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/376611c7d58e.html",
@@ -4080,28 +4414,6 @@
       "model": "Murano",
       "condition": "used",
       "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Rogue ",
-      "vin": "5N1AT2MV2KC808862",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8accbac419bf.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 9900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Sentra ",
-      "vin": "3N1AB7APXKY210846",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6f1fcf19cf65.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 11995.0,
       "price_currency": "CAD"
     },
     {
@@ -4124,39 +4436,6 @@
       "model": "1500",
       "condition": "used",
       "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 1500 Classic ",
-      "vin": "1C6RR7LTXKS688342",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d68dbee324bd.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 32595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 2500 ",
-      "vin": "3C6TR5EJ5KG565304",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2eb7958c5441.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Subaru Ascent ",
-      "vin": "4S4WMADD6K3403155",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/94ac0228a2cb.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -4259,17 +4538,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford EcoSport ",
-      "vin": "MAJ6S3GL4LC384394",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f2667e3ec391.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "EcoSport",
-      "condition": "used",
-      "price": 17999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Ford Edge ",
       "vin": "2FMPK4G99LBB16297",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/325592d1f101.html",
@@ -4303,14 +4571,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BT3LEC25420",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/153e98e22f75.html",
+      "name": "2020 Hyundai IONIQ Electric Ultimatein Duncan",
+      "vin": "KMHC05LJ8LU069431",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d470cd46e517.html",
       "year": 2020,
-      "make": "Ford",
-      "model": "Super Duty",
+      "make": "Hyundai",
+      "model": "IONIQ Electric",
       "condition": "used",
-      "price": 64995.0,
+      "price": 18818.0,
       "price_currency": "CAD"
     },
     {
@@ -4325,17 +4593,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai IONIQ Hybrid ",
-      "vin": "KMHC75LC5LU202921",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ee6c300c1cd4.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "IONIQ Hybrid",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Hyundai Kona LUXURYin Duncan",
       "vin": "KM8K6CAA8LU433087",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ac6d2cfe6315.html",
@@ -4344,6 +4601,17 @@
       "model": "Kona",
       "condition": "used",
       "price": 19818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Hyundai Kona Essentialin Duncan",
+      "vin": "KM8K1CAA2LU458226",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5f2517a4ec49.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 17918.0,
       "price_currency": "CAD"
     },
     {
@@ -4358,14 +4626,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Santa Fe ULTIMATE! AWD! FULL LOAD! LEATHER! SUNROOF! NAV!in Duncan",
-      "vin": "5NMS5CAA2LH279510",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/90bb35c62a58.html",
+      "name": "2020 Hyundai Palisade Luxuryin Duncan",
+      "vin": "KM8R3DHE0LU167375",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/0b6c3ed11c6d.html",
       "year": 2020,
       "make": "Hyundai",
-      "model": "Santa Fe",
+      "model": "Palisade",
       "condition": "used",
-      "price": 23995.0,
+      "price": 26818.0,
       "price_currency": "CAD"
     },
     {
@@ -4501,17 +4769,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Nissan Murano ",
-      "vin": "5N1AZ2DS8LN161734",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ed8f04d3a7de.html",
-      "year": 2020,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Nissan Rogue ",
       "vin": "5N1AT2MV9LC710994",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c2a365a9e41c.html",
@@ -4575,28 +4832,6 @@
       "model": "Model 3",
       "condition": "used",
       "price": 28955.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Audi Q7 ",
-      "vin": "WA1BXAF78MD030287",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/90de7bc8e43b.html",
-      "year": 2021,
-      "make": "Audi",
-      "model": "Q7",
-      "condition": "used",
-      "price": 29495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 BMW X7 ",
-      "vin": "5UXCW2C02M9F83239",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/bef668a4d23a.html",
-      "year": 2021,
-      "make": "BMW",
-      "model": "X7",
-      "condition": "used",
-      "price": 49495.0,
       "price_currency": "CAD"
     },
     {
@@ -4743,17 +4978,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Elantra PREFERREDin Duncan",
-      "vin": "KMHLM4AG0MU100131",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/359cb900331c.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 17418.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Hyundai Elantra ",
       "vin": "KMHLM4AG0MU100131",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/fb5fe57d9774.html",
@@ -4762,6 +4986,17 @@
       "model": "Elantra",
       "condition": "used",
       "price": 17418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Hyundai Elantra Hybrid Preferred DCT Heated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "vin": "KMHLM4AJ8MU004663",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/65e9f306df79.html",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid Preferred DCT Heated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "condition": "used",
+      "price": 23118.0,
       "price_currency": "CAD"
     },
     {
@@ -4787,17 +5022,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Santa Fe Fully loaded! Heads up display! Full Safety Features!in Duncan",
-      "vin": "5NMS5DAL9MH338982",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1932ea572d84.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 29818.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Hyundai Santa Fe ",
       "vin": "5NMS5DAL9MH338982",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/518cb5426e9f.html",
@@ -4806,17 +5030,6 @@
       "model": "Santa Fe",
       "condition": "used",
       "price": 29818.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Sonata ",
-      "vin": "5NPEJ4J23MH063452",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/96a0819ec3ae.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "used",
-      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
@@ -4886,17 +5099,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Forte ",
-      "vin": "3KPF54AD4ME297016",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/621c7c23eadf.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 15995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Kia Seltos ",
       "vin": "KNDETCA2XM7201433",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4d2dde48ae63.html",
@@ -4905,17 +5107,6 @@
       "model": "Seltos",
       "condition": "used",
       "price": 19888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Sorento ",
-      "vin": "5XYRGDLF9MG039244",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9e602181d48f.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 24318.0,
       "price_currency": "CAD"
     },
     {
@@ -5040,17 +5231,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Atlas ",
-      "vin": "1V2BR2CA4MC608637",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8eaa8664069e.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 31999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Volkswagen Jetta ",
       "vin": "3VWE57BU9MM031862",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/bbdc49d69d14.html",
@@ -5073,17 +5253,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volvo XC60 ",
-      "vin": "LYVA22RLXMB873092",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f89c47257db8.html",
-      "year": 2021,
-      "make": "Volvo",
-      "model": "XC60",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Chevrolet Equinox ",
       "vin": "3GNAXUEV6NL244118",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/86f4320792d9.html",
@@ -5092,17 +5261,6 @@
       "model": "Equinox",
       "condition": "used",
       "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chevrolet Malibu ",
-      "vin": "1G1ZD5ST9NF196551",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c753fd254834.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "condition": "used",
-      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -5147,17 +5305,6 @@
       "model": "Challenger",
       "condition": "used",
       "price": 68995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Edge ",
-      "vin": "2FMPK4K93NBA48315",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d48b3ed91d42.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used",
-      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
@@ -5216,28 +5363,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Accord Sedan ",
-      "vin": "1HGCV1F99NA801281",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d3bf531ee9e2.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Accord Sedan",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Ridgeline ",
-      "vin": "5FPYK3F57NB502666",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7c73fcdc5fe9.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Ridgeline",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Hyundai Elantra PREFERREDin Duncan",
       "vin": "KMHLM4AG4NU325248",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e1efb8939323.html",
@@ -5268,17 +5393,6 @@
       "model": "Kona",
       "condition": "used",
       "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Kona Electric ",
-      "vin": "KM8K33AG5NU139047",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/36eb4a0cf7db.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used",
-      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -5334,6 +5448,17 @@
       "model": "Tucson",
       "condition": "used",
       "price": 24994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Hyundai Tucson Hybrid Ultimatein Duncan",
+      "vin": "KM8JCCA10NU021477",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d436f913b4c2.html",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 43624.0,
       "price_currency": "CAD"
     },
     {
@@ -5436,17 +5561,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mitsubishi Eclipse Cross ",
-      "vin": "JA4ATUAA2NZ613857",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d8b7973b82da.html",
-      "year": 2022,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "used",
-      "price": 19888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Mitsubishi Outlander ",
       "vin": "JA4J4UA85NZ607559",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8f102ecabf15.html",
@@ -5455,17 +5569,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan LEAF ",
-      "vin": "1N4AZ1BVXNC556403",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4b06ae8ffde2.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "LEAF",
-      "condition": "used",
-      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -5488,17 +5591,6 @@
       "model": "1500",
       "condition": "used",
       "price": 45995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 Classic ",
-      "vin": "1C6RR7LTXNS248710",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/507eb3530712.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -5590,17 +5682,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Traverse ",
-      "vin": "1GNEVFKWXPJ305755",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5184a34f1a6b.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 30895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Chrysler Grand Caravan ",
       "vin": "2C4RC1ZG8PR578495",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/121dc5bf6229.html",
@@ -5609,17 +5690,6 @@
       "model": "Grand Caravan",
       "condition": "used",
       "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco ",
-      "vin": "1FMEE5DP9PLB40385",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/96974e607dc5.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 43495.0,
       "price_currency": "CAD"
     },
     {
@@ -5664,17 +5734,6 @@
       "model": "Yukon XL",
       "condition": "used",
       "price": 76995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Genesis G70 ",
-      "vin": "KMTG54TE9PU119023",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8915417bc8e6.html",
-      "year": 2023,
-      "make": "Genesis",
-      "model": "G70",
-      "condition": "used",
-      "price": 36800.0,
       "price_currency": "CAD"
     },
     {
@@ -5733,6 +5792,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Hyundai Santa Fe Preferred AWD Heated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "vin": "5NMS3DAJ6PH580198",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8c96b4bb9fef.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe Preferred AWD Heated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "condition": "used",
+      "price": 34998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Hyundai Santa Fe ",
       "vin": "5NMS3DAJ0PH621084",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e07ee03b9125.html",
@@ -5777,17 +5847,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Cherokee ",
-      "vin": "1C4PJMMB1PD103493",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2020215fad9d.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Jeep Grand Wagoneer ",
       "vin": "1C4SJVGPXPS552643",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/f73dd77159a0.html",
@@ -5796,17 +5855,6 @@
       "model": "Grand Wagoneer",
       "condition": "used",
       "price": 63995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler 2 Door ",
-      "vin": "1C4HJXAG1PW601655",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6e0fdd3f70db.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -5854,17 +5902,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Stinger ",
-      "vin": "KNAE55LC7P6124247",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/5343f41834cf.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Stinger",
-      "condition": "used",
-      "price": 40994.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Telluride ",
       "vin": "5XYP5DGC3PG360942",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e55480ad01bd.html",
@@ -5895,17 +5932,6 @@
       "model": "CX-50",
       "condition": "used",
       "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda CX-9 ",
-      "vin": "JM3TCBCY6P0653564",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d8f7e7d201de.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-9",
-      "condition": "used",
-      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -5972,17 +5998,6 @@
       "model": "3500",
       "condition": "used",
       "price": 64995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Subaru Outback ",
-      "vin": "4S4BTDKC5P3211004",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9272dd1cf39d.html",
-      "year": 2023,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -6162,6 +6177,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Elantra Preferred IVTHeated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "vin": "KMHLM4DG1RU719016",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ae732d359ae4.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Elantra Preferred IVTHeated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "condition": "used",
+      "price": 23618.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Hyundai Elantra ",
       "vin": "KMHLM4DG6RU847784",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/8e29fa349a2a.html",
@@ -6173,17 +6199,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai IONIQ 5 PREFERRED! EV! LOCALLY OWNED! SAY NO TO GAS TODAY!in Duncan",
-      "vin": "KM8KRDDF2RU268103",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4ff6cb760610.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 46895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai IONIQ 5 PREFERREDin Duncan",
       "vin": "KM8KN4DE3RU237915",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/88394f3b0b74.html",
@@ -6192,17 +6207,6 @@
       "model": "IONIQ 5",
       "condition": "used",
       "price": 38818.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai IONIQ 5 PREFERREDin Duncan",
-      "vin": "KM8KN4DE3RU247893",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2e9fcd78a2f1.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 39818.0,
       "price_currency": "CAD"
     },
     {
@@ -6250,17 +6254,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Santa Fe LUXURY! AWD! 7 PASS! LEATHER! PANO SUNROOF! MINT!in Duncan",
-      "vin": "5NMP4DGL8RH063581",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/76ed75790d35.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 39999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai Santa Fe ",
       "vin": "5NMP3DGL8RH022600",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/bc9de9f546e2.html",
@@ -6291,17 +6284,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 18495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Compass ",
-      "vin": "3C4NJDDN3RT116759",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/01f47e1f15ec.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -6379,17 +6361,6 @@
       "model": "Telluride",
       "condition": "used",
       "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Lexus RX 350 ",
-      "vin": "2T2BAMCAXRC052462",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/bede79bd8efb.html",
-      "year": 2024,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
@@ -6492,17 +6463,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Pathfinder ",
-      "vin": "5N1DR3BE0RC273299",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c1143e1d1fae.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Rogue ",
       "vin": "JN8BT3AB4RW285091",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/09b928a8525c.html",
@@ -6602,17 +6562,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 BMW X2 ",
-      "vin": "WBX63GM01S5347074",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c57ffe0fbb55.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "used",
-      "price": 39686.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Buick Encore GX ",
       "vin": "KL4AMCSL9SB202533",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/6e0356bb8ea8.html",
@@ -6643,17 +6592,6 @@
       "model": "Colorado",
       "condition": "used",
       "price": 56995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Silverado 1500 ",
-      "vin": "2GCUKDED1S1157350",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/d7fe070891c7.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 46888.0,
       "price_currency": "CAD"
     },
     {
@@ -6698,17 +6636,6 @@
       "model": "Mustang",
       "condition": "used",
       "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Sierra 3500 ",
-      "vin": "1GT4UVEY4SF315577",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/9cf73b18ba10.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Sierra 3500",
-      "condition": "used",
-      "price": 99995.0,
       "price_currency": "CAD"
     },
     {
@@ -6789,17 +6716,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Kona PREFERRED W/TREND PACKAGE! LEATHER! SUNROOF!in Duncan",
-      "vin": "KM8HCCAB6SU289257",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b226fc1b39fb.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 28922.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Kona ",
       "vin": "KM8HCCAB8SU244689",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/29318082f42e.html",
@@ -6811,6 +6727,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Hyundai Kona Electric Ultimate FWD Heated And Ventilated Seats Heated Steering Wheel Power Sunroof 360 Camera Head-Up Dispin Duncan",
+      "vin": "KM8HE3A62SU030021",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/83e4e2c173d6.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona Electric Ultimate FWD Heated And Ventilated Seats Heated Steering Wheel Power Sunroof 360 Camera Head-Up Dispin Duncan",
+      "condition": "used",
+      "price": 44105.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Hyundai Palisade ",
       "vin": "KM8R3DGE3SU813363",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4a3af74e5973.html",
@@ -6819,6 +6746,17 @@
       "model": "Palisade",
       "condition": "used",
       "price": 46995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Santa Cruz Preferred AWD Heated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "vin": "5NTJCDDF0SH146066",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/966b1576c955.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Cruz Preferred AWD Heated Front Seats Heated Steering Wheel Apple CarPlay Android Auto Blind Spot Monitorin Duncan",
+      "condition": "used",
+      "price": 38998.0,
       "price_currency": "CAD"
     },
     {
@@ -6965,17 +6903,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Lexus GX ",
-      "vin": "JTJVBCDX1S5049414",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/27410d108b68.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "GX",
-      "condition": "used",
-      "price": 105995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-5 ",
       "vin": "JM3KFBCL8S0609503",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/1eef57634fe3.html",
@@ -7006,17 +6933,6 @@
       "model": "CX-70 MHEV",
       "condition": "used",
       "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander ",
-      "vin": "JA4J4VA88SZ614751",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/ec75caa83dd8.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -7097,17 +7013,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM ProMaster Cargo Van ",
-      "vin": "3C6LRVCG0SE539454",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/c0ceb5e32cfc.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 47995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Subaru Forester ",
       "vin": "JF2SKEHC5SH406974",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/2829460b56b5.html",
@@ -7130,17 +7035,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Tundra ",
-      "vin": "5TFNA5EC4SX039459",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4d4a0b2d6bf9.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 66995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Atlas Cross Sport ",
       "vin": "1V2LE2CA7SC222873",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/b88194d30846.html",
@@ -7149,17 +7043,6 @@
       "model": "Atlas Cross Sport",
       "condition": "used",
       "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Jetta ",
-      "vin": "3VWSX7BU7SM108366",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/98f10fbe49f3.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -7306,17 +7189,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Palisade ",
-      "vin": "KM8RGES24TU081222",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/e854829b8b3d.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Palisade Hybrid ",
       "vin": "KM8RMESA4TU047281",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/57e3ea10d7ac.html",
@@ -7372,17 +7244,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ",
-      "vin": "KM8JDDD21TU423996",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/7aa5f07c6ead.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Venue ",
       "vin": "KMHRC8A35TU478865",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/4c71fda42550.html",
@@ -7435,6 +7296,17 @@
       "model": "Elantra",
       "condition": "new",
       "price": 31149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Elantra Hybrid LUXURYin Duncan",
+      "vin": "KMHLN4DJ7TU227266",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/4299b5609649.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 34249.0,
       "price_currency": "CAD"
     },
     {
@@ -7515,6 +7387,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
+      "vin": "3KMJCCDE0TE030028",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/10f3450235b3.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 40849.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Tucson PREFERREDin Duncan",
       "vin": "3KMJBCDE6TE038511",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/b240b6b91cb2.html",
@@ -7559,6 +7442,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
+      "vin": "3KMJCCDE0TE030031",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/089184fdb077.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41399.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Tucson PREFERREDin Duncan",
       "vin": "3KMJBCDE0TE038441",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/27f8be9eac98.html",
@@ -7578,6 +7472,17 @@
       "model": "Tucson",
       "condition": "new",
       "price": 37399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
+      "vin": "KM8JCCDE8TU467694",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/61a7505d9103.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41099.0,
       "price_currency": "CAD"
     },
     {
@@ -7633,6 +7538,17 @@
       "model": "Venue",
       "condition": "new",
       "price": 29149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Venue ESSENTIALin Duncan",
+      "vin": "KMHRB8A32TU504194",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/0126934ffb8a.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 24199.0,
       "price_currency": "CAD"
     },
     {
@@ -7801,6 +7717,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Hyundai Kona LUXURYin Duncan",
+      "vin": "KM8HBCAB5VU524061",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/5643a984494b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 39649.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Kona ESSENTIALin Duncan",
       "vin": "KM8HACAB2VU516759",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/b0796baa0a8a.html",
@@ -7809,6 +7736,28 @@
       "model": "Kona",
       "condition": "new",
       "price": 31999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona PREFERREDin Duncan",
+      "vin": "KM8HBCAB0VU534710",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/bde1dcbc49d1.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 34499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona PREFERREDin Duncan",
+      "vin": "KM8HBCABXVU537551",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/74be0f7b602b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 34499.0,
       "price_currency": "CAD"
     }
   ]
