@@ -1,7 +1,7 @@
 {
   "dealership": "Duncan Hyundai",
-  "generated_at": "2026-11-16T15:54:16",
-  "vehicle_count": 747,
+  "generated_at": "2026-11-17T09:19:36",
+  "vehicle_count": 752,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1229,6 +1229,126 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/5803c5635b41.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/078437f26e8f.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/422bebb16d3f.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/06c4f2386e3c.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/ab53a7a485ab.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/2c630ba580d3.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/d592fb7f2149.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/f8651814b456.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/d3c93e16e802.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/856f4f710609.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/41f3129a4ad3.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c4eefc8c7b03.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/50f2c738e14b.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c40b07aea40d.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Duncan",
+      "vin": "KM8JUCAG1EU834117",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c1b9c5f20628.html",
+      "condition": "new",
+      "price": 3418.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2001 Dodge RAM 1500 ",
       "vin": "3B7HF13Z51G215081",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/22c70eb54ae7.html",
@@ -1638,84 +1758,7 @@
     {
       "name": "2011 Hyundai Elantra ",
       "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/5803c5635b41.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/078437f26e8f.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/a1e4632e311b.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/422bebb16d3f.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/06c4f2386e3c.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/ab53a7a485ab.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/2c630ba580d3.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/d592fb7f2149.html",
       "year": 2011,
       "make": "Hyundai",
       "model": "Elantra",
@@ -1760,39 +1803,6 @@
       "name": "2011 Hyundai Elantra ",
       "vin": "5NPDH4AE5BH027177",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/ddfb8ae031a3.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/f8651814b456.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/d3c93e16e802.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/856f4f710609.html",
       "year": 2011,
       "make": "Hyundai",
       "model": "Elantra",
@@ -2728,61 +2738,6 @@
       "name": "2011 Hyundai Elantra ",
       "vin": "5NPDH4AE5BH027177",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/8f98a58645a0.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/41f3129a4ad3.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c4eefc8c7b03.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/50f2c738e14b.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c40b07aea40d.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 1995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Hyundai Elantra ",
-      "vin": "5NPDH4AE5BH027177",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c1b9c5f20628.html",
       "year": 2011,
       "make": "Hyundai",
       "model": "Elantra",
@@ -7321,6 +7276,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Hyundai Kona N Line Ultimatein Duncan",
+      "vin": "KM8HECA37TU488841",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/ba6b0eb05bd2.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 41699.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Kona PREFERREDin Duncan",
       "vin": "KM8HCCAB4TU360425",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/a87cf4f56ef7.html",
@@ -7387,6 +7353,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
+      "vin": "KM8JCCDE1TU456939",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/855005e508cb.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41849.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Hyundai Tucson PREFERREDin Duncan",
       "vin": "3KMJCCDE0TE030028",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/10f3450235b3.html",
@@ -7395,6 +7372,28 @@
       "model": "Tucson",
       "condition": "new",
       "price": 40849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
+      "vin": "3KMJCCDE7TE039423",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/b555982caa4f.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
+      "vin": "KM8JCCDE4TU467708",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/8db87acff5e8.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41099.0,
       "price_currency": "CAD"
     },
     {
@@ -7725,6 +7724,17 @@
       "model": "Kona",
       "condition": "new",
       "price": 39649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona N Line Ultimatein Duncan",
+      "vin": "KM8HECA30VU523478",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/baadce8458d1.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 42099.0,
       "price_currency": "CAD"
     },
     {
