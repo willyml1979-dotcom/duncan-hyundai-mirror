@@ -1,6 +1,6 @@
 # Duncan Hyundai
 
- dealership in Duncan. AI-readable inventory mirror, about 768 vehicles.
+ dealership in Duncan. AI-readable inventory mirror, about 765 vehicles.
 
 - Official website: https://www.duncanhyundai.net/
 - Used vehicles: https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/used/
