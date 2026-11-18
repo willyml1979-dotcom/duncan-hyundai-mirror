@@ -1,7 +1,7 @@
 {
   "dealership": "Duncan Hyundai",
-  "generated_at": "2026-11-18T04:26:16",
-  "vehicle_count": 770,
+  "generated_at": "2026-11-18T09:48:14",
+  "vehicle_count": 768,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -7262,17 +7262,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ESSENTIALin Duncan",
-      "vin": "KMHLM4DG4TU242072",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/52bcca596dea.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 25149.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Elantra Luxuryin Duncan",
       "vin": "KMHLN4DG2TU208760",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/f9ba37dd59cb.html",
@@ -7317,28 +7306,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona PREFERREDin Duncan",
-      "vin": "KM8HCCAB4TU360425",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/a87cf4f56ef7.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona ESSENTIALin Duncan",
-      "vin": "KM8HACAB0TU476405",
-      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/357060d5f0e2.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31299.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Kona Preferredin Duncan",
       "vin": "KM8HCCAB7TU485712",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/afdd22f8b2d7.html",
@@ -7350,7 +7317,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona N LINEin Duncan",
+      "name": "New 2026 Hyundai Kona N Linein Duncan",
       "vin": "KM8HACA35TU440640",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/0fc1a78a4557.html",
       "year": 2026,
@@ -7372,7 +7339,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Sonata Hybrid PREFERRED-TRENDin Duncan",
+      "name": "New 2026 Hyundai Sonata Hybrid Preferred-Trendin Duncan",
       "vin": "KMHL34JJ4TA162873",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/54a5c21150dc.html",
       "year": 2026,
@@ -7427,7 +7394,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
       "vin": "3KMJBCDE6TE038511",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/b240b6b91cb2.html",
       "year": 2026,
@@ -7438,7 +7405,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
       "vin": "KM8JBCDE2TU487555",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/f874112d2e6c.html",
       "year": 2026,
@@ -7449,7 +7416,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
       "vin": "3KMJBCDE6TE030344",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/44735a193f73.html",
       "year": 2026,
@@ -7493,7 +7460,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
       "vin": "3KMJBCDE7TE030417",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/c89464d3e8ce.html",
       "year": 2026,
@@ -7515,7 +7482,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Tucson Preferredin Duncan",
       "vin": "3KMJBCDE9TE038924",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/a796cf5baf0f.html",
       "year": 2026,
@@ -7526,7 +7493,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Venue Preferredin Duncan",
       "vin": "KMHRC8A31TU495680",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/4df6f367038c.html",
       "year": 2026,
@@ -7537,7 +7504,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue PREFERREDin Duncan",
+      "name": "New 2026 Hyundai Venue Preferredin Duncan",
       "vin": "KMHRC8A37TU485980",
       "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/cafbae3150c6.html",
       "year": 2026,
@@ -7699,6 +7666,17 @@
       "model": "Kona",
       "condition": "new",
       "price": 34499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona N Line Ultimatein Duncan",
+      "vin": "KM8HECA3XVU521950",
+      "url": "https://willyml1979-dotcom.github.io/duncan-hyundai-mirror/new/b67720cd4bd6.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 42449.0,
       "price_currency": "CAD"
     },
     {
